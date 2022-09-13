@@ -19,6 +19,7 @@
 <a href="https://linkedin.com/in/vmvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vmvieira" height="30" width="40" /></a>
 <a href="https://fb.com/vmvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vmvieira" height="30" width="40" /></a>
 <a href="https://instagram.com/hueditsofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hueditsofficial" height="30" width="40" /></a>
+<a href="https://codepen.io/huedits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="huedits" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
