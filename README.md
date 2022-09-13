@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on [get_next_line](https://github.com/huedits/get_next_line)
 
-- 🌱 I’m currently learning **C**
-
-- 👨‍💻 All of my projects are available at [https://github.com/huedits](https://github.com/huedits)
+- 🌱 I’m currently learning **C** and **Javascript**
 
 - 📫 How to reach me **huedits@gmail.com**
+
+<h3 align=left>Projects:</h3>
+<a href ="https://github.com/huedits/libft">Libft</a>
+| <a href="https://github.com/huedits/get_next_line">GNL</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
