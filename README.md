@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hueditsofficial" target="blank"><img src="https://img.shields.io/twitter/follow/hueditsofficial?logo=twitter&style=for-the-badge" alt="hueditsofficial" /></a> </p>
 
-- 🔭 I’m currently working on [get_next_line](https://github.com/huedits/get_next_line)
+- 🔭 I’m currently working on [ft_printf](https://github.com/huedits/ft_printf)
 
 - 🌱 I’m currently learning **C** and **Javascript**
 
@@ -14,6 +14,7 @@
 <h3 align=left>Projects:</h3>
 <a href ="https://github.com/huedits/libft">Libft</a>
 | <a href="https://github.com/huedits/get_next_line">GNL</a>
+| <a href="https://github.com/huedits/ft_printf">ft_printf</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
