@@ -12,9 +12,9 @@
 - 📫 How to reach me **huedits@gmail.com**
 
 <h3 align=left>Projects:</h3>
-<a href ="https://github.com/huedits/libft">Libft</a>
-| <a href="https://github.com/huedits/get_next_line">GNL</a>
-| <a href="https://github.com/huedits/ft_printf">ft_printf</a>
+<a href ="https://github.com/huedits/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/></a>
+<a href="https://github.com/huedits/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" /></a>
+<a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
