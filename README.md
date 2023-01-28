@@ -15,8 +15,8 @@
 <a href ="https://github.com/huedits/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/></a>
 <a href="https://github.com/huedits/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" /></a>
 <a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
-<a href="https://github.com/huedits/pipex"><img src="https://game.42sp.org.br/static/assets/achievements/so_longn.png" alt="pipex" /></a>
-<a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/pipexn.png" alt="ft_printf" /></a>
+<a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="pipex" /></a>
+<a href="https://github.com/huedits/pipex"><img src="https://game.42sp.org.br/static/assets/achievements/pipexn.png" alt="ft_printf" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
