@@ -17,7 +17,7 @@
 <a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
 <a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="so_long" /></a>
 <a href="https://github.com/huedits/pipex"><img src="https://game.42sp.org.br/static/assets/achievements/pipexn.png" alt="pipex" /></a>
-<a href="https://github.com/huedits/pipex"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkn.png" alt="minitalk" /></a>
+<a href="https://github.com/huedits/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkn.png" alt="minitalk" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
