@@ -23,10 +23,11 @@
       <a href="https://github.com/huedits/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" /></a>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr valign="center">
+    <td align="center" width="200px">
+      <img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" alt="Entrando em órbita" />
     </td>
-    <td>
+    <td align="center">
       <a href ="https://github.com/huedits/push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" alt="push_swap"/></a>
     </td>
   </tr>
