@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=huedits&label=Profile%20views&color=0e75b6&style=flat" alt="huedits" /> </p>
 
-- 🔭 I’m currently working on [minitalk](https://github.com/huedits/minitalk)
+- 🔭 I’m currently working on [push_swap](https://github.com/huedits/push_swap)
 
 - 🌱 I’m currently learning **C** and **Javascript**
 
@@ -21,6 +21,13 @@
       <a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
       <a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="so_long" /></a>
       <a href="https://github.com/huedits/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+      <a href ="https://github.com/huedits/push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" alt="push_swap"/></a>
     </td>
   </tr>
 </table>
