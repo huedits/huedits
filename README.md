@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Matheus (a.k.a. Huedits)</h1>
 <h3 align="center">A Software Engineering student from 42 São Paulo in Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huedits&label=Profile%20views&color=0e75b6&style=flat" alt="huedits" /> </p>
-
-<p align="right> <img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="Entrando em órbita" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=huedits&label=Profile%20views&color=0e75b6&style=flat" alt="huedits" /> </p>
 
 - 🔭 I’m currently working on [minitalk](https://github.com/huedits/minitalk)
 
@@ -12,13 +10,20 @@
 - 📫 How to reach me **huedits@gmail.com**
 
 <h3 align=left>Projects:</h3>
-<a href ="https://github.com/huedits/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/></a>
-<a href="https://github.com/huedits/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" /></a>
-<a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
-<a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="so_long" /></a>
-<a href="https://github.com/huedits/pipex"><img src="https://game.42sp.org.br/static/assets/achievements/pipexn.png" alt="pipex" /></a>
-<a href="https://github.com/huedits/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" /></a>
-
+<table>
+  <tr valign="center">
+    <td align="center" width="200px">
+      <img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="Entrando em órbita" />
+    </td>
+    <td align="center">
+      <a href ="https://github.com/huedits/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/></a>
+      <a href="https://github.com/huedits/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" /></a>
+      <a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
+      <a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="so_long" /></a>
+      <a href="https://github.com/huedits/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" /></a>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hueditsofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hueditsofficial" height="30" width="40" /></a>
