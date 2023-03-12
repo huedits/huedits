@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huedits&label=Profile%20views&color=0e75b6&style=flat" alt="huedits" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hueditsofficial" target="blank"><img src="https://img.shields.io/twitter/follow/hueditsofficial?logo=twitter&style=for-the-badge" alt="hueditsofficial" /></a> </p>
+<p align="right> <img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="Entrando em órbita" /> </p>
 
 - 🔭 I’m currently working on [minitalk](https://github.com/huedits/minitalk)
 
