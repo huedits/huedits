@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor Matheus (a.k.a. Huedits)</h1>
-<h3 align="center">A Software Engineering student from 42 São Paulo in Brazil.</h3>
+<h3 align="center">A dropout Software Engineering student from 42 São Paulo in Brazil.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=huedits&label=Profile%20views&color=0e75b6&style=flat" alt="huedits" /> </p>
 
-- 🔭 I’m currently working on [push_swap](https://github.com/huedits/push_swap)
+- 🔭 I’m currently working as an intern in Orhganiza.
 
-- 🌱 I’m currently learning **C** and **Javascript**
+- 🌱 I’m currently learning **Typescript**, **Angular** and **Node.js**
 
 - 📫 How to reach me **huedits@gmail.com**
 
@@ -21,14 +21,6 @@
       <a href="https://github.com/huedits/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfn.png" alt="ft_printf" /></a>
       <a href="https://github.com/huedits/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="so_long" /></a>
       <a href="https://github.com/huedits/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" /></a>
-    </td>
-  </tr>
-  <tr valign="center">
-    <td align="center" width="200px">
-      <img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" alt="Entrando em órbita" />
-    </td>
-    <td align="center">
-      <a href ="https://github.com/huedits/push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" alt="push_swap"/></a>
     </td>
   </tr>
 </table>
